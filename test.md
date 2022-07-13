@@ -1,1 +1,1 @@
-git commit -a -m 'сделать сохранение и комит сразу'
+git checkout -b branch_name  –  создание ветки и переход  в нее
